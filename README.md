@@ -20,6 +20,7 @@ and return the array of three integers in the following form: [# of times for �
 # Example
   
 commands = [ “ls”, “cp”, “mv”, “mv”, “mv”, “!1”, “!3”, “!6”], the output should be [1, 3, 4].
+  
 • First “ls” was executed once.
   
 • Then “cp” was executed once.
